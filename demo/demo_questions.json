@@ -1,0 +1,422 @@
+[
+  {
+    "n": 1,
+    "source_ref": "114/Q01",
+    "year": 114,
+    "topic_major_zh": "骨科復健",
+    "topic_code": "ORR",
+    "stem": "下列有關第五蹠骨基底骨折(fifth metatarsal base fractures)常見撕裂性骨折(avulsion fracture)之敘述,何者最正確?",
+    "options": {
+      "A": "骨折發生時常伴隨踝關節內翻(inversion)",
+      "B": "好發於蹠骨骨幹骺端(metaphysis)與骨幹(diaphysis)之交界處",
+      "C": "骨折處血液循環不良,不容易癒合",
+      "D": "患肢在 6-8 週內不可承重",
+      "E": "即使骨折處沒有顯著的位移(displacement),也需手術治療"
+    },
+    "correct_letter": "A",
+    "is_multi": false,
+    "citation": "DeLisa 6e Ch.30 p.675-676",
+    "explanation": "第五蹠骨基底撕裂性骨折(avulsion fracture)的典型機轉是足踝在蹠屈下急性內翻(inversion)，使附著於結節的腓骨短肌(peroneus brevis)與外側足底腱膜牽拉，撕下近端結節骨片，故 (A) 正確。誘答 (B) 描述的是 metaphysis-diaphysis 交界，那是 Jones fracture 的位置而非 avulsion；(C) 血供不良、不易癒合同樣是 Jones fracture（位於 watershed 區）的特徵，avulsion 因位於血供豐富的結節處通常癒合良好；(D) avulsion 多採症狀導向、可耐受承重的保守治療，並非 6-8 週禁止承重；(E) 無顯著位移者不需手術。",
+    "explanation_image": "expl_01.png",
+    "stem_images": []
+  },
+  {
+    "n": 2,
+    "source_ref": "114/Q02",
+    "year": 114,
+    "topic_major_zh": "輔具",
+    "topic_code": "AST",
+    "stem": "肌萎縮側索硬化症(amyotrophic lateral sclerosis)病人會有漸進式的四肢無力，下列有關 其裝具的處方，何者錯誤？",
+    "options": {
+      "A": "手部休息型/保護型副木(resting hand splint)可在白天和晚上都穿戴，避免手腕和手 指關節產生屈曲攣縮(flexion contracture)",
+      "B": "如有手腕伸肌的無力，可使用掌側豎腕副木(volar cock-up splint)將手腕固定在20-30 度伸展(extension)",
+      "C": "如有爪型手(claw hand)，可使用抗爪型手副木(anticlaw splint)，避免近端指間關節 (PIP)和遠端指間關節(DIP)過度屈曲",
+      "D": "如有垂足(drop foot) 合併痙攣(spastisity)，應選用鉸接式蹠曲限制踝足部矯具 (hinged AFO with plantar flexion stop)",
+      "E": "要經常檢視裝具穿戴部位是否有皮膚的缺損"
+    },
+    "correct_letter": "C",
+    "is_multi": false,
+    "citation": "DeLisa 6e Ch.23 p.511-512",
+    "explanation": "ALS 為下運動神經元退化造成的漸進性無力與肌肉萎縮，裝具目標是擺位、預防攣縮並省能。爪型手(claw hand)源於手內在肌(intrinsic)無力使 MCP 過度伸展、PIP/DIP 屈曲；anticlaw splint（如 lumbrical bar）的作用是阻擋 MCP 過度伸展、間接矯正手指姿勢，而非「避免 PIP/DIP 過度屈曲」，故 (C) 敘述錯誤。(A) resting hand splint 日夜配戴預防屈曲攣縮、(B) volar cock-up 將腕固定於約 20-30° 伸展、(D) 垂足合併痙攣選用 hinged AFO with plantar flexion stop、(E) 定期檢查皮膚完整性均為正確處方原則。",
+    "explanation_image": "expl_02.png",
+    "stem_images": []
+  },
+  {
+    "n": 3,
+    "source_ref": "114/Q03",
+    "year": 114,
+    "topic_major_zh": "日常生活活動",
+    "topic_code": "ADL",
+    "stem": "一名 45 歲男性因腦外傷導致認知功能受損，臨床評估顯示，病人在進行日常活動時容 易因環境干擾而分心，難以維持長時間專注，在需要快速切換任務時表現困難，記憶力 及執行功能下降。根據臨床上職能治療介入的原則，下列那一項敘述最不正確？",
+    "options": {
+      "A": "執行功能障礙者可透過解決問題訓練及自我調節訓練來增強規劃與組織能力。",
+      "B": "對於分配性注意力障礙者，應從同時注意兩個刺激開始，並逐步增加需同時注意的 刺激量，以改善其多工處理能力。",
+      "C": "對於持續性注意力障礙者，應讓病人參與有興趣的活動，並逐步延長活動參與時間， 以增強其專注能力。",
+      "D": "矯正性記憶訓練的療效已被證實，較代償性介入有更好的效果。",
+      "E": "對於自我察覺嚴重受損者，應以改變物理與社會環境的方式來提供代償，減少個案 因錯誤決策導致的風險。"
+    },
+    "correct_letter": "D",
+    "is_multi": false,
+    "citation": "大紅(復健及物理醫學 臨床篇) 2e p.479",
+    "explanation": "題幹為 TBI 後注意力、執行功能與記憶障礙。職能治療對記憶障礙的實證以代償性策略(compensatory，如外部輔助、環境改造、errorless learning)為主流且療效最受支持；矯正性/復原性記憶訓練(restorative drill)的療效證據有限，並未證實優於代償性介入，故 (D) 最不正確。(A) 執行功能障礙用 problem-solving 與 self-regulation 訓練、(B) 分配性注意力由雙刺激漸進加量、(C) 持續性注意力以興趣活動延長參與時間、(E) 自我察覺嚴重受損者以改造物理與社會環境提供代償，皆為正確原則。",
+    "explanation_image": "expl_03.png",
+    "stem_images": []
+  },
+  {
+    "n": 4,
+    "source_ref": "114/Q04",
+    "year": 114,
+    "topic_major_zh": "截肢義肢",
+    "topic_code": "AMP_PRO",
+    "stem": "一位病人接受經橈骨截肢（transradial amputation）手術後，現在需要選擇一款最合適的 套筒設計。以下有關其套筒設計之敘述，何者正確？",
+    "options": {
+      "A": "若病人的殘肢較短，適用明斯特（Muenster）型套筒，因其提供更親密的包裹和強 化的前後壓縮，適合較短的殘肢",
+      "B": "若病人的殘肢較短，適用西北（Northwestern）型套筒，因為它提供較低的 內外側壓縮，更適合短殘肢使用",
+      "C": "若病人為雙側截肢者，適用明斯特（Muenster）型套筒，因為該套筒容易穿戴，特 別受到雙側截肢者的青睞",
+      "D": "若病人的殘肢較長，適用西北（Northwestern）型套筒，其套筒特色為肘部前面提 供一個通道，讓肱肌（brachialis muscle）肌腱通過。這樣能夠執行不受阻礙的屈曲",
+      "E": "若病人選用經橈骨截肢解剖學輪廓(Transradial Anatomically Contoured, TRAC)型套 筒，因其對殘肢同時使用前後和內外側壓縮來增強穩定性和舒適度，進而將負荷從 橈骨轉移到更具負荷耐受性的遠端肌肉群"
+    },
+    "correct_letter": "A",
+    "is_multi": false,
+    "citation": "Braddom 6e Ch.9 p.164",
+    "explanation": "經橈骨截肢(transradial)的 Muenster 型套筒包覆較高、緊密貼合並提供前後向(AP)壓縮以增加懸吊與穩定，特別適合「短殘肢」(因短殘肢可用的槓桿與懸吊面積少)，故 (A) 正確。(B) Northwestern 型恰相反，其特色是降低內外側(ML)壓縮、利於肘屈，較適合「中至長」殘肢而非短殘肢；(C) Muenster 包覆緊、穿戴較困難且限制肘屈，並非雙側截肢者偏好的易穿戴設計；(D) Northwestern 套筒於肘前留通道讓「肱二頭肌肌腱(biceps tendon)」通過以利不受阻屈曲，並非肱肌(brachialis)；(E) TRAC 型確實合併 AP 與 ML 壓縮，但其設計是將負荷由橈骨遠端轉移至「近端、較耐負荷的肌肉群」，選項稱「遠端肌肉群」方向錯誤。",
+    "explanation_image": "expl_04.png",
+    "stem_images": []
+  },
+  {
+    "n": 5,
+    "source_ref": "114/Q05",
+    "year": 114,
+    "topic_major_zh": "中風",
+    "topic_code": "CVA",
+    "stem": "腦中風會造成特定的高級皮質功能 (higher cortical function)損傷，例如失語症、忽略症 (neglect) 及失用症 (apraxia) 等。某些特定的高級皮質功能損傷可用來定位腦中風的部 位 及梗塞血管。下列有關高級皮質功能損傷與梗塞部位之敘述，何者最正確？",
+    "options": {
+      "A": "左側前大腦動脈梗塞可能造成跨皮質運動型失語症 (transcortical motor aphasia)。",
+      "B": "左側中大腦動脈 (middle cerebral artery) 的下分支 (inferior division)梗塞可能造成運 動性失語症 (Broca aphasia)。",
+      "C": "右側中大腦動脈 (middle cerebral artery) 的上分支 (superior division)梗塞可能造成 左半側肢體忽略 (hemineglect)",
+      "D": "左側頂葉 (parietal lobe)大範圍中風可能造成半側空間忽略 (hemispatial neglect)。",
+      "E": "非優勢側 (nondominant) 的頂葉 (parietal lobe)中風可能造成意想運動性失用症 (ideomotor apraxia)"
+    },
+    "correct_letter": "A",
+    "is_multi": false,
+    "citation": "Braddom 6e Ch.44 Stroke Rehabilitation",
+    "explanation": "左側前大腦動脈(ACA)供應額葉內側與輔助運動區(SMA)，其梗塞可造成跨皮質運動型失語(transcortical motor aphasia)——自發語言少但複誦(repetition)保留，故 (A) 正確。(B) Broca aphasia 由左 MCA「上分支(superior division)」（供應 Broca 區與運動皮質）梗塞造成，而非下分支(下分支梗塞造成 Wernicke aphasia)；(C) 左半側忽略屬非優勢半球功能，應為「右側」MCA 病灶造成左側忽略，但典型忽略多與下分支/頂葉相關而非單純上分支；(D) 半側空間忽略主要見於「右(非優勢)」頂葉，左頂葉中風較常造成失語/Gerstmann 而非顯著忽略；(E) 觀念運動性失用(ideomotor apraxia)主要與「優勢(左)」頂葉病灶相關，非非優勢側。",
+    "explanation_image": "expl_05.png",
+    "stem_images": []
+  },
+  {
+    "n": 6,
+    "source_ref": "114/Q06",
+    "year": 114,
+    "topic_major_zh": "神經學/周邊神經",
+    "topic_code": "PN",
+    "stem": "一名 25 歲男性病人,自青少年時期開始出現步態不穩,近期行走困難加重,並有反覆 踝關節扭傷的情形。他的雙足呈高弓足(pes cavus),並伴有輕度感覺喪失。臨床檢查 發現雙側遠端肌肉萎縮,但近端肌力相對保留。神經傳導檢查顯示運動與感覺神經傳導 振幅(amplitude)降低,但神經傳導速度(velocity)只有輕微下降。根據此病人的病史與檢 查結果,以下那一項診斷最有可能?",
+    "options": {
+      "A": "遺傳性感覺運動神經病變 I 型(hereditary motor and sensory neuropathy type I, HMSN I)",
+      "B": "遺傳性感覺運動神經病變 II 型(hereditary motor and sensory neuropathy type II, HMSN II)",
+      "C": "遺傳性感覺運動神經病變 III 型(hereditary motor and sensory neuropathy type III, HMSN III,Dejerine-Sottas syndrome)",
+      "D": "雷弗素姆疾病(hereditary motor and sensory neuropathy type IV, HMSN IV, Refsum’s disease)",
+      "E": "勞一雷症候群(Roussy Levy syndrome)"
+    },
+    "correct_letter": "B",
+    "is_multi": false,
+    "citation": "Braddom 6e Ch.41 p.873",
+    "explanation": "題幹為青少年期起病、高弓足(pes cavus)、遠端肌肉萎縮、反覆踝扭傷之 Charcot-Marie-Tooth (CMT/HMSN)。關鍵在於神經傳導：運動與感覺「振幅(amplitude)下降」但「傳導速度僅輕微下降」，屬軸突型(axonal)病變，對應 HMSN II(CMT2)，故 (B) 正確。(A) HMSN I(CMT1)為脫髓鞘(demyelinating)型，傳導速度顯著減慢(常 <38 m/s)，與題幹不符；(C) HMSN III (Dejerine-Sottas)為嬰幼兒期發病、嚴重脫髓鞘、傳導速度極慢；(D) Refsum disease 伴植烷酸堆積、視網膜色素變性等特殊表現；(E) Roussy-Lévy 另合併顯著姿勢性顫抖與失調，且多為脫髓鞘型。",
+    "explanation_image": "expl_06.png",
+    "stem_images": []
+  },
+  {
+    "n": 7,
+    "source_ref": "114/Q07",
+    "year": 114,
+    "topic_major_zh": "風濕關節",
+    "topic_code": "ART",
+    "stem": "25 歲男性,腰酸背痛持續兩年，尤其是晚上常會痛醒過來。門診檢查發現病人前 彎、後仰及兩邊側彎均受限，神經學檢查無異常發現。考量病人診斷之需求及現 行健保政策，下列那一檢查最優先?",
+    "options": {
+      "A": "骨頭同位素",
+      "B": "磁振造影 (MRI)",
+      "C": "骨盤 X 光",
+      "D": "HLA-B27",
+      "E": "紅血球沉降速率 (ESR)"
+    },
+    "correct_letter": "C",
+    "is_multi": false,
+    "citation": "Braddom 6e Ch.31 p.615",
+    "explanation": "25 歲男性、慢性發炎性下背痛、夜間痛醒、各方向脊椎活動度受限——典型 ankylosing spondylitis (AS) 表現。考量診斷需求與現行健保給付順序，影像首選且最符合健保優先的是「骨盆 X 光」以評估薦腸關節炎(sacroiliitis)，便宜、可近、為分類準則依據，故 (C) 最優先。(B) MRI 雖對早期非放射學薦腸關節炎較敏感，但健保多要求先有 X 光且符合條件才給付，非第一線；(A) 骨頭同位素掃描特異度低，非首選；(D) HLA-B27 與 (E) ESR 為輔助性血清/發炎指標，不能單獨定位薦腸關節炎，亦非影像診斷首選。",
+    "explanation_image": "expl_07.png",
+    "stem_images": []
+  },
+  {
+    "n": 8,
+    "source_ref": "114/Q08",
+    "year": 114,
+    "topic_major_zh": "心臟復健",
+    "topic_code": "CR",
+    "stem": "一名10 歲男童，患有心房中隔缺損（Atrial Septal Defect, ASD），經過心導管治療後, 平 時無明顯症狀，近期因學校體適能評估需求，被安排接受心肺運動測試。已知兒童在運 動時的生理變化與成人有所不同，且先天性心臟病可能影響運動生理反應，以下敘述何 者錯誤？",
+    "options": {
+      "A": "與成人相比，心跳率(heart rate)較快",
+      "B": "與成人相比，呼吸交換率(respiratory exchange ratio)較高",
+      "C": "與成人相比，每分鐘通氣量(minute ventilation)較低",
+      "D": "與成人相比，相對攝氧量(relative oxygen uptake)較高",
+      "E": "與固定式腳踏車相比，選用跑步機得到的最大攝氧量(peak oxygen uptake)和最大心 跳率(maximal heart rate)較高"
+    },
+    "correct_letter": "B",
+    "is_multi": false,
+    "citation": "ACSM Guidelines for Exercise Testing and Prescription 11e Ch.6 Table 6.1 p.286",
+    "explanation": "兒童運動生理與成人不同：相較成人，兒童在次最大運動時心跳率較快、每分鐘通氣量(相對體重)較高、相對攝氧量(mL/kg/min)較高，但「呼吸交換率(RER)較低」而非較高（兒童無氧醣解能力與乳酸生成較低，使 RER 偏低），故敘述 (B) 錯誤。(A)(C)(D) 與兒童生理一致（其中 C 的『每分鐘通氣量較低』指絕對值，因兒童體型小），(E) 跑步機相較固定式腳踏車一般可測得較高的 peak VO2 與最大心跳率，正確。",
+    "explanation_image": "expl_08.png",
+    "stem_images": []
+  },
+  {
+    "n": 9,
+    "source_ref": "114/Q09",
+    "year": 114,
+    "topic_major_zh": "電學診斷",
+    "topic_code": "ED",
+    "stem": "在常規的神經電生理檢查中，在以最大強度刺激脛神經 (tibial nerve)並從腓腸肌 (gastrocnemius) 記錄時，出現了數個 F-wave。但這些 F-wave 的 潛伏期 (latency) 和波形(morphology) 變化很大為了區分 F 波和背景運動單元活動 (background motor unit activity)，最合適的下一步是：",
+    "options": {
+      "A": "將刺激持續時間增加至 5 毫秒",
+      "B": "將刺激強度降低至次最大強度 (submaximal stimulation)。",
+      "C": "將刺激頻率增加至每秒一次以上",
+      "D": "調高肌電圖機器的音量，並在刺激器離開皮膚時放電 (discharge)",
+      "E": "請病人進行輕微的腓腸肌自主收縮"
+    },
+    "correct_letter": "D",
+    "is_multi": false,
+    "citation": "Preston & Shapiro Electromyography and Neuromuscular Disorders Ch.4 p.43-44",
+    "explanation": "當螢幕上出現潛伏期(latency)與波形(morphology)變異極大、貌似 F-wave 的反應時，需先排除這些其實是「背景運動單元活動(background motor unit firing)」而非真正 F 波。標準做法是調高肌電圖機音量，並在刺激器離開皮膚(off the skin)時擊發，若仍有放電聲即證實為自主肌肉活動所致，故 (D) 正確。(A) 增加刺激時長、(C) 提高刺激頻率不能區分背景活動且 F 波本就需超強刺激；(B) 降為次最大刺激會減少 F 波出現，無助鑑別；(E) 請病人自主收縮反而誘發更多運動單元活動，混淆判讀。",
+    "explanation_image": "expl_09.png",
+    "stem_images": []
+  },
+  {
+    "n": 10,
+    "source_ref": "114/Q10",
+    "year": 114,
+    "topic_major_zh": "脊髓損傷",
+    "topic_code": "SCI",
+    "stem": "一位第七頸髓完全損傷女性病人，其尿路動力學檢查結果為 detrusor overactivity with detrusor-sphincter dyssynergia，同時有膀胱頸阻塞現象，下列有關此病人可選擇排尿處 理方式之敘述，何者錯誤？",
+    "options": {
+      "A": "其上肢功能應可在訓練後，達成自我間歇導尿",
+      "B": "如果要執行間歇導尿，可考慮合併服用藥物包括 antimuscarinics, calcium channel blockers 或 B3-agonist",
+      "C": "如果藥物治療效果不佳，可申請健保注射肉毒桿菌素於膀胱壁，效果長達六至九個 月",
+      "D": "也可用 α1a selective 阻斷劑來改善排尿，因為其血壓降低的副作用較少",
+      "E": "如果想改善排尿阻塞，留置尿管也是很適合女性的長期處置方式"
+    },
+    "correct_letter": "E",
+    "is_multi": false,
+    "citation": "Braddom 6e Ch.20 p.398,403 / Ch.49 p.1086；連 基礎篇 Ch.27 p.564,566",
+    "explanation": "C7 完全損傷女性合併 detrusor overactivity、DSD 與膀胱頸阻塞。長期留置尿管(indwelling catheter)會增加泌尿道感染、結石、尿道糜爛與膀胱癌風險，並非女性首選的長期排尿處置，國際指引多建議以間歇性導尿(CIC)為優先，故 (E) 錯誤。(A) C7 損傷上肢功能(手腕伸展、抓握代償)經訓練多可自我導尿；(B) 配合 CIC 可加用 antimuscarinics、calcium channel blockers 或 β3-agonist 抑制逼尿肌；(C) 膀胱壁注射 botulinum toxin 健保可申請、效果約 6-9 個月；(D) α1a 選擇性阻斷劑(如 silodosin/tamsulosin)改善出口阻塞且降血壓副作用較少，皆正確。",
+    "explanation_image": "expl_10.png",
+    "stem_images": []
+  },
+  {
+    "n": 11,
+    "source_ref": "114/Q11",
+    "year": 114,
+    "topic_major_zh": "運動醫學",
+    "topic_code": "SM",
+    "stem": "一位田徑選手在一個月後將參加國際賽事，因醫療需要需肌肉注射糖皮質類固醇 (glucocorticoids)，以下何種藥物注射後，將最可能導致他尿液抽測時違反賽內禁藥規範?",
+    "options": {
+      "A": "Betamethasone",
+      "B": "Dexamethasone",
+      "C": "Triamcinolone acetonide",
+      "D": "Methylprednisonlone",
+      "E": "Prednisolone"
+    },
+    "correct_letter": "C",
+    "is_multi": false,
+    "citation": "WADA Prohibited List — Glucocorticoids (S9) & Therapeutic Use Exemption guidance",
+    "explanation": "WADA 規定所有糖皮質類固醇經口服、靜脈、肌肉或直腸途徑於賽內(in-competition)皆禁用，違規與否取決於採檢時體內是否仍可測得，故 washout(清除)期最長者風險最高。肌肉注射 triamcinolone acetonide 屬長效酯化(depot)製劑，組織釋放緩慢、尿中可偵測窗最長(WADA 列其 IM 給藥需約 30 天清除期)，賽前一個月注射最可能在賽內尿檢呈陽性，故 (C) 正確。(A) betamethasone、(B) dexamethasone、(D) methylprednisolone、(E) prednisolone 的建議清除期較短(數日至約 2 週)，於賽前一個月注射通常已清除，違規風險較低。",
+    "explanation_image": "expl_11.png",
+    "stem_images": []
+  },
+  {
+    "n": 12,
+    "source_ref": "114/Q12",
+    "year": 114,
+    "topic_major_zh": "神經調控/機器人",
+    "topic_code": "NMD",
+    "stem": "下列有關重覆經顱磁刺激(rTMS, repetitive transcranial magnetic stimulation)在根據歐洲磁 刺激學者聯盟2020 年之治療指引分析，以下敍述何者錯誤？",
+    "options": {
+      "A": "其治療效果在個體間差異不大",
+      "B": "低頻rTMS 在中風之促進動作功能恢復是有確定的效果。",
+      "C": "低頻rTMS 使用於中風非流暢性失語症則相當可能有改善。",
+      "D": "治療療程必需個人化",
+      "E": "促進動作功能恢復之臨床有效病人之比例約在70%-80%左右"
+    },
+    "correct_letter": "A",
+    "is_multi": false,
+    "citation": "Lefaucheur et al. European rTMS therapeutic guidelines 2020",
+    "explanation": "依 2020 年歐洲 rTMS 治療指引，rTMS 的臨床反應在「個體間差異很大(high inter-individual variability)」，這正是須個人化療程的原因，故 (A)「個體間差異不大」錯誤。(D) 治療必須個人化、(E) 促進動作恢復的臨床有效者比例約 70-80%，與指引一致；(B)(C) 反映指引中低頻 rTMS 對中風後動作功能恢復與非流暢型失語的證據評等(分別具相當程度的療效與可能改善)。本題鎖定 (A) 與指引核心精神(反應變異大、需個人化)相互矛盾。",
+    "explanation_image": "expl_12.png",
+    "stem_images": []
+  },
+  {
+    "n": 13,
+    "source_ref": "114/Q13",
+    "year": 114,
+    "topic_major_zh": "神經性膀胱",
+    "topic_code": "NB",
+    "stem": "下列有關脊髓脊膜膨出症(myelogomeningocele)的嬰幼兒神經性膀胱與腸道功能障礙之 敘述與處置，何者正確？",
+    "options": {
+      "A": "最早可在出生滿六個月時安排尿路動力學檢查",
+      "B": "如果檢查發現有水腎或輸尿管逆流，應開始使用預防性抗生素",
+      "C": "很少會因膀胱容量太小而造成尿失禁，所以抗膽鹼藥物或肉毒桿菌素注射效果不佳",
+      "D": "病灶部位在第三腰髓以上的，更容易出現肛門內括約肌張力過高而無法排便",
+      "E": "神經學檢查出現陽性的 bulbocavernous 和 anocutaneous reflex 者，其將來控制大便 失禁的能力不佳"
+    },
+    "correct_letter": "B",
+    "is_multi": false,
+    "citation": "連 基礎篇 Ch.27 p.567；Braddom 6e Ch.48 p.1037",
+    "explanation": "脊髓脊膜膨出(myelomeningocele)嬰幼兒之神經性膀胱，若上尿路檢查發現水腎(hydronephrosis)或膀胱輸尿管逆流(VUR)，因感染與腎損害風險高，建議開始預防性抗生素並積極處理高壓膀胱，故 (B) 正確。(A) 基準尿路動力學檢查多在出生後早期(數週至數月)即安排以建立基線，不限「滿六個月才可」；(C) 小容量、高壓膀胱造成尿失禁常見，抗膽鹼藥或 botulinum toxin 注射多有效，敘述相反；(D) 排便障礙與內括約肌張力之描述與病灶高低關係不符；(E) 出現陽性 bulbocavernosus 與 anocutaneous reflex 代表薦髓反射弧保留，預後相對較佳而非較差。",
+    "explanation_image": "expl_13.png",
+    "stem_images": []
+  },
+  {
+    "n": 14,
+    "source_ref": "114/Q14",
+    "year": 114,
+    "topic_major_zh": "腦外傷",
+    "topic_code": "TBI",
+    "stem": "一位車禍頭部外傷病人，意識喪失 20 分鐘，病程中評估到的最低 GCS 分數為 E3V4M6，並出現暫時性失憶，在 12 小時後恢復。初步檢查無局部神經學缺損 (focal neurologic deficit)，CT 顯示無出血。以下敘述何者錯誤？",
+    "options": {
+      "A": "此病人的嚴重度屬於輕度腦損傷",
+      "B": "TBI 需與非創傷性腦損傷 (non-traumatic brain injury，如中風或腦腫瘤) 鑑別，因為 在機轉、治療及預後上有顯著不同",
+      "C": "身體功能損傷是導致嚴重殘疾的主要因素之一，特別是在中度至重度 TBI 病人，然 而行為（behavioral）與認知（cognitive）問題經常是病人重返社區（community reintegration）的主要障礙",
+      "D": "CT 影像若出現 Mount Fuji sign，是外科急症，可能需盡快手術處理",
+      "E": "創傷後混亂狀態（Posttraumatic Confusional State, PCS）可作為損傷嚴重程度的指 標，但與預後較無相關性"
+    },
+    "correct_letter": "E",
+    "is_multi": false,
+    "citation": "DeLisa 6e Ch.19 p.376,392；Braddom 6e Ch.43 p.916,926",
+    "explanation": "題幹 GCS 13(E3V4M6)、意識喪失 20 分鐘、創傷後失憶 12 小時內恢復、無局部神經缺損且 CT 無出血——屬輕度 TBI。創傷後混亂狀態(PTA 期間)既可作為損傷嚴重度指標，且 PTA 時間長短「與預後相關」(PTA 越長預後越差)，故 (E)「與預後較無相關性」錯誤。(A) 依 GCS 13-15 屬 mild、(B) 須與非創傷性腦損傷鑑別、(C) 中重度 TBI 中行為與認知問題常為重返社區的主要障礙、(D) CT 出現 Mount Fuji sign(張力性氣顱)為外科急症可能需手術，均正確。",
+    "explanation_image": "expl_14.png",
+    "stem_images": []
+  },
+  {
+    "n": 15,
+    "source_ref": "114/Q15",
+    "year": 114,
+    "topic_major_zh": "兒童復健",
+    "topic_code": "CP",
+    "stem": "一名 2 個月大的早產嬰兒在「一般動作評估 (The Prechtl Qualitative Assessment of General Movements, GMA)」中表現出缺乏細微的抖動性動作 (fidgety movements),The Hammersmith Infant Neurological Examination (HINE) 測試總分為 40 分。根據現有數 據,下列敘述何者最正確?",
+    "options": {
+      "A": "存在腦性麻痺風險,但未來可能可以獨立行走",
+      "B": "存在腦性麻痺風險,且未來可能無法獨立行走",
+      "C": "上述分數在年齡為 2 個月時不具臨床預測價值,需要其他測試",
+      "D": "腦性麻痺無法在年齡 2 個月時預測,需要在年齡 6 個月時重新評估",
+      "E": "腦性麻痺風險低,建議 3 個月後再重新評估"
+    },
+    "correct_letter": "B",
+    "is_multi": false,
+    "citation": "Novak et al. JAMA Pediatr 2017；Romeo HINE in CP 2008",
+    "explanation": "矯正年齡約 3 個月的 fidgety 期缺乏抖動性動作(absent fidgety movements)對腦性麻痺有高預測力。HINE 總分 40 落在低分區間(<40 常預示異常結果，<73 為高 CP 風險)，極低分數合併 absent fidgety，預示嚴重動作障礙、未來難以獨立行走，故 (B) 最正確。(C)(D) 稱此年齡不具預測價值或需等 6 個月並不正確——fidgety GMA 加 HINE 在 3 個月左右即具高預測效力；(A) 低估嚴重度(此組合預後差，較不可能獨立行走)；(E)「風險低」與 absent fidgety + 極低 HINE 分數明顯矛盾。",
+    "explanation_image": "expl_15.png",
+    "stem_images": []
+  },
+  {
+    "n": 16,
+    "source_ref": "114/Q16",
+    "year": 114,
+    "topic_major_zh": "老年復健",
+    "topic_code": "GER",
+    "stem": "下列有關高齡者跌倒之敘述，何者錯誤？",
+    "options": {
+      "A": "跌倒的危險因子可分為內在危險因子(intrinsic risk factor)及外在危險因子(extrinsic risk factor)，前者包括年齡、視覺缺損、心血管及神經系統疾病等等，後者包括多重藥物 使用及環境等因子",
+      "B": "認知障礙(cognitive impairment)和失智(dementia)會增加跌倒的風險",
+      "C": "平衡訓練、力量訓練及行走訓練對於預防高齡者跌倒沒有幫助",
+      "D": "妥善評估並改善居家環境，有助於預防高齡者發生跌倒",
+      "E": "積極處理足踝疼痛及失能等症狀，有助於降低跌倒風險"
+    },
+    "correct_letter": "C",
+    "is_multi": false,
+    "citation": "Braddom 6e Ch.30 p.598-600",
+    "explanation": "高齡者跌倒的危險因子可分為內在(年齡、視覺缺損、心血管與神經系統疾病)與外在(多重用藥、環境)兩類。實證顯示==平衡訓練、肌力訓練與步態訓練能有效降低跌倒風險==(多元運動介入為跌倒一級預防的核心)，故 (C)「對於預防高齡者跌倒沒有幫助」錯誤。(A) 內外在危險因子分類、(B) 認知障礙與失智會增加跌倒風險、(D) 評估並改善居家環境有助預防跌倒、(E) 積極處理足踝疼痛與失能可降低跌倒風險，皆為正確敘述。",
+    "explanation_image": "expl_16.png",
+    "stem_images": []
+  },
+  {
+    "n": 17,
+    "source_ref": "114/Q17",
+    "year": 114,
+    "topic_major_zh": "癌症復健",
+    "topic_code": "CAN",
+    "stem": "下列有關癌症相關的認知功能障礙(cancer-related cognitive impairment)敘述，何者錯誤？",
+    "options": {
+      "A": "執行功能(executive function)較不受影響",
+      "B": "常發生在接受癌症治療的時期",
+      "C": "有一些共伴疾病如貧血或甲狀腺功能低下較容易產生",
+      "D": "影像學檢查被認為對診斷較無幫助，但可用來排除結構上的問題如腫瘤轉移到腦部",
+      "E": "認知訓練或認知行為訓練一般被認為對這樣的功能障礙是有幫助的"
+    },
+    "correct_letter": "A",
+    "is_multi": false,
+    "citation": "Braddom 6e Ch.29 p.582-583",
+    "explanation": "癌症相關認知功能障礙(CRCI，俗稱 chemo-brain)最常受影響的領域正是「執行功能(executive function)」、注意力、工作記憶與處理速度，故 (A)「執行功能較不受影響」錯誤。(B) 常發生於接受癌症治療(化療/放療/荷爾蒙治療)期間、(C) 貧血、甲狀腺低下等共病會加重、(D) 影像對 CRCI 診斷幫助有限但可用於排除腦轉移等結構病灶、(E) 認知訓練或認知行為治療一般被認為有幫助，皆為正確敘述。",
+    "explanation_image": "expl_17.png",
+    "stem_images": []
+  },
+  {
+    "n": 18,
+    "source_ref": "114/Q18",
+    "year": 114,
+    "topic_major_zh": "復健概念/醫倫法",
+    "topic_code": "REH",
+    "stem": "依據《身心障礙者鑑定作業辦法》，下列那些病人不需進行活動參與及環境因素之鑑定？",
+    "options": {
+      "A": "80 歲(含)以上",
+      "B": "未滿六歲",
+      "C": "15 歲(含)以上但未滿十八歲有工作無學籍者",
+      "D": "六歲(含)以上未滿十五歲",
+      "E": "需二十四小時使用呼吸器之成年人"
+    },
+    "correct_letter": "B",
+    "is_multi": false,
+    "citation": "身心障礙者鑑定作業辦法 §9",
+    "explanation": "依《身心障礙者鑑定作業辦法》第九條，活動參與及環境因素之鑑定有免除對象；「未滿六歲」之幼兒因發展階段，不須進行活動參與及環境因素鑑定，故 (B) 正確。其餘選項(80 歲以上、6-15 歲、15-18 歲有工作無學籍、需 24 小時使用呼吸器之成年人)依該條規定仍須進行相關鑑定或屬不同處理類別，非本題所問之免除對象。",
+    "explanation_image": "expl_18.png",
+    "stem_images": []
+  },
+  {
+    "n": 19,
+    "source_ref": "114/Q19",
+    "year": 114,
+    "topic_major_zh": "復健護理/燒燙傷",
+    "topic_code": "RN",
+    "stem": "下列有關脊髓損傷病人壓瘡(pressure injury)皮瓣術後照護之敘述，何者錯誤？",
+    "options": {
+      "A": "坐骨區域的皮瓣手術，目前建議進行預防性單側或雙側坐骨切除術(ischiectomy)",
+      "B": "術後應限制於微漏氣床墊(low-air-loss mattress)上臥床休息(bed rest)，避免傷口受壓",
+      "C": "若為骶骨和坐骨(ischium)手術，術後床頭不可搖高超過15 度",
+      "D": "目前臥床休息時間並沒有共識，一般建議2 到6 週，並根據皮瓣大小以及病人狀況調 整",
+      "E": "髖關節(hip joint)被動活動度達到90 度且對手術部位沒有壓力，即可開始坐立訓練"
+    },
+    "correct_letter": "A",
+    "is_multi": false,
+    "citation": "DeLisa 6e Ch.22 p.1821-1825",
+    "explanation": "脊髓損傷壓瘡皮瓣術後照護中，坐骨(ischial)區皮瓣手術『不建議』常規進行預防性單側或雙側坐骨切除術(prophylactic ischiectomy)，因會改變承重力學、增加對側或會陰部潰瘍風險，故 (A) 錯誤。(B) 術後以 low-air-loss 床墊嚴格臥床、避免術區受壓；(C) 薦骨或坐骨修補時床頭抬高不超過 15° 以減少剪力；(D) 臥床時間無定論，一般 2-6 週並依皮瓣大小與病人狀況調整；(E) 髖被動 ROM 達 90° 且術區無壓力後可開始漸進坐立訓練，均正確。",
+    "explanation_image": "expl_19.png",
+    "stem_images": []
+  },
+  {
+    "n": 20,
+    "source_ref": "114/Q20",
+    "year": 114,
+    "topic_major_zh": "生物力學",
+    "topic_code": "BMC",
+    "stem": "一位病人在跌倒時手腕受傷，X 光檢查顯示遠端橈骨骨折，骨折癒合後留有 6 公 釐的正向尺側變異(ulnar variance)，下列有關此變異之描述，何者錯誤？",
+    "options": {
+      "A": "造成尺側擠壓症候群 (ulnar impaction syndrome) 引起關節疼痛。",
+      "B": "尺骨向中間擠壓到無血管供應的三角纖維軟骨、三角骨或月狀骨，會導致局 部發炎甚至退化。",
+      "C": "尺骨的位移被穩定的肱尺關節所限制",
+      "D": "多數尺側變異之程度來自橈骨的相對位移",
+      "E": "前臂旋後時，橈骨會向近端位移，腕關節的尺側變異增加"
+    },
+    "correct_letter": "E",
+    "is_multi": false,
+    "citation": "DeLisa 6e Ch.29 p.639；Braddom 6e p.723",
+    "explanation": "遠端橈骨骨折癒合後遺留 6 mm 正向尺側變異(positive ulnar variance)。前臂『旋前(pronation)』時橈骨相對縮短、尺骨相對突出，使尺側變異『增加』；而『旋後(supination)』時尺側變異反而減少，故 (E)「旋後時橈骨向近端位移、尺側變異增加」方向錯誤。(A) 正向變異造成尺側擠壓症候群(ulnar impaction)引起腕尺側疼痛、(B) 尺骨頭擠壓 TFCC、三角骨、月狀骨致發炎退化、(C) 尺骨位移受穩定的肱尺(肘)關節限制、(D) 多數尺側變異程度來自橈骨相對位移(因橈骨遠端骨折短縮)，皆為正確描述。",
+    "explanation_image": "expl_20.png",
+    "stem_images": []
+  }
+]

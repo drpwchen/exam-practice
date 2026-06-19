@@ -1,0 +1,15 @@
+services:
+  app:
+    build: .
+    container_name: exam-practice
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      # persist the SQLite DB + question images across restarts
+      - exam-data:/app/data
+    restart: unless-stopped
+
+volumes:
+  exam-data:

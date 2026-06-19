@@ -1,0 +1,12 @@
+data/
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+frontend/dist/
+.vscode/
+.idea/
+*.db
+*.db-wal
+*.db-shm

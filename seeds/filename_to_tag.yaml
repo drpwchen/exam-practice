@@ -1,0 +1,7 @@
+# Map filename → tag code by extracting the leading uppercase code.
+# Pattern captures group 1 = the code, then we normalize "AMP&PRO"→"AMP_PRO".
+# Single rule is enough; the alias table handles "AMP&PRO" → "AMP_PRO".
+extract_pattern: '^\d+\.[_\s]*([A-Z][A-Z_&]*)'
+
+aliases:
+  "AMP&PRO": AMP_PRO

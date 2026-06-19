@@ -1,0 +1,70 @@
+[
+  {
+    "n": 21,
+    "source_ref": "demo/S01",
+    "year": null,
+    "topic_major_zh": "電學診斷",
+    "topic_code": "ED",
+    "synthetic": true,
+    "stem": "下圖為運動神經傳導檢查所記錄的複合肌肉動作電位 (compound muscle action potential, CMAP) 波形。關於圖中標示之參數，下列敘述何者正確？",
+    "options": {
+      "A": "「潛伏期 (onset latency)」反映最快傳導纖維自刺激點傳至記錄點的時間，包含神經內傳導與神經肌肉接合處的傳遞時間",
+      "B": "「振幅 (amplitude)」的高低主要由神經傳導速度 (conduction velocity) 決定",
+      "C": "潛伏期延長必定代表軸突喪失 (axonal loss)，與髓鞘無關",
+      "D": "CMAP 振幅與被記錄肌肉的肌纖維數量無關",
+      "E": "此波形可直接用來判讀感覺神經 (sensory nerve) 的功能"
+    },
+    "correct_letter": "A",
+    "is_multi": false,
+    "stem_images": [
+      "cmap_demo.png"
+    ],
+    "explanation_image": null,
+    "citation": "示範題 (synthetic) · 參考 Preston & Shapiro, EMG and Neuromuscular Disorders",
+    "explanation": "CMAP 的 onset latency 代表最快運動纖維由刺激點到記錄電極的總傳遞時間，含神經內傳導與神經肌肉接合處延遲，故 (A) 正確。(B) 振幅主要反映可被活化之運動軸突與肌纖維「數量」，傳導速度由 latency 與距離計算而得；(C) 潛伏期延長可因脫髓鞘或軸突喪失，並非必為軸突喪失；(D) 振幅與記錄肌肉之肌纖維數量相關；(E) CMAP 評估運動神經，感覺功能須以 SNAP 判讀。〔合成示範題，非真實考題〕"
+  },
+  {
+    "n": 22,
+    "source_ref": "demo/S02",
+    "year": null,
+    "topic_major_zh": "復健概念/醫倫法",
+    "topic_code": "REH",
+    "synthetic": true,
+    "stem": "（複選）下列何者屬於上運動神經元 (upper motor neuron, UMN) 病變的典型表現？",
+    "options": {
+      "A": "肌張力增加 (spasticity)",
+      "B": "深部肌腱反射亢進 (hyperreflexia)",
+      "C": "早期即出現明顯肌肉萎縮 (marked early atrophy)",
+      "D": "病理反射如 Babinski sign 陽性",
+      "E": "肌束顫動 (fasciculation)"
+    },
+    "correct_letter": "ABD",
+    "is_multi": true,
+    "stem_images": [],
+    "explanation_image": null,
+    "citation": "示範題 (synthetic) · 參考 Braddom, Clinical Evaluation",
+    "explanation": "UMN 病變典型表現為痙攣 (spasticity)、深部肌腱反射亢進 (hyperreflexia)、病理反射 (如 Babinski sign) 陽性，故 A、B、D 正確。早期明顯肌肉萎縮 (C) 與肌束顫動 (E) 屬下運動神經元 (LMN) 病變特徵。〔合成示範題，用於展示複選題功能，非真實考題〕"
+  },
+  {
+    "n": 23,
+    "source_ref": "demo/S03",
+    "year": null,
+    "topic_major_zh": "脊髓損傷",
+    "topic_code": "SCI",
+    "synthetic": true,
+    "stem": "（複選）下列何者為輪椅使用之脊髓損傷者預防壓瘡 (pressure injury) 的適當措施？",
+    "options": {
+      "A": "每 15–30 分鐘執行一次減壓 (pressure relief)",
+      "B": "選用合適的減壓坐墊 (pressure-relieving cushion)",
+      "C": "保持皮膚清潔乾燥，避免潮濕與摩擦",
+      "D": "長時間維持同一坐姿以增加穩定度",
+      "E": "每日定期檢查皮膚有無發紅或破損"
+    },
+    "correct_letter": "ABCE",
+    "is_multi": true,
+    "stem_images": [],
+    "explanation_image": null,
+    "citation": "示範題 (synthetic) · 參考 DeLisa, SCI Rehabilitation",
+    "explanation": "壓瘡預防核心包括規律減壓 (每 15–30 分鐘)、合適減壓坐墊、皮膚清潔乾燥、每日皮膚檢查，故 A、B、C、E 正確。長時間維持同一坐姿 (D) 反而增加局部壓力與壓瘡風險。〔合成示範題，用於展示複選題功能，非真實考題〕"
+  }
+]

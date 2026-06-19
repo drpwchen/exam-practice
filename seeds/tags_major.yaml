@@ -1,0 +1,106 @@
+# 官方 26 命題領域 (來源: 2026筆試26個命題領域_20250715.pdf)
+# 編號 + 縮寫 + 短中文 + 完整領域名稱
+- code: ADL
+  sort_order: 1
+  short_zh: 日常生活活動
+  display_name: Activities of Daily Living, O.T. & Vocational Rehabilitation
+- code: AMP_PRO
+  sort_order: 2
+  short_zh: 截肢義肢
+  display_name: Amputation (含PVD) & Prosthetics & Prosthesis
+- code: ART
+  sort_order: 3
+  short_zh: 風濕關節
+  display_name: Rheumatology (含Arthritis)
+- code: BMC
+  sort_order: 4
+  short_zh: 生物力學
+  display_name: Biomechanics
+- code: CP
+  sort_order: 5
+  short_zh: 兒童復健
+  display_name: Pediatric Rehabilitation (含Cerebral Palsy)
+- code: CR
+  sort_order: 6
+  short_zh: 心臟復健
+  display_name: Cardiac Rehabilitation
+- code: CVA
+  sort_order: 7
+  short_zh: 中風
+  display_name: Cerebral Vascular Accident
+- code: ED
+  sort_order: 8
+  short_zh: 電學診斷
+  display_name: Electrodiagnosis (含Myopathy)
+- code: EP
+  sort_order: 9
+  short_zh: 運動生理
+  display_name: Exercise Physiology
+- code: NMD
+  sort_order: 10
+  short_zh: 神經調控/AI
+  display_name: Neuromodulation (含rTMS, tDCS), Robot, A.I.
+- code: GER
+  sort_order: 11
+  short_zh: 老年復健
+  display_name: Geriatric Rehabilitation
+- code: NB
+  sort_order: 12
+  short_zh: 神經性膀胱
+  display_name: Neurogenic Bladder & Bowel
+- code: ORR
+  sort_order: 13
+  short_zh: 骨科復健
+  display_name: Orthopedic Rehabilitation
+- code: AST
+  sort_order: 14
+  short_zh: 輔具
+  display_name: Assisted Technology (Orthotics, Orthosis, Wheelchair)
+- code: PM
+  sort_order: 15
+  short_zh: 物理因子治療
+  display_name: Physical Medicine & Physical Therapy
+- code: PN
+  sort_order: 16
+  short_zh: 神經學/周邊神經
+  display_name: Neurology (含Peripheral Neuropathy)
+- code: PR
+  sort_order: 17
+  short_zh: 肺臟復健
+  display_name: Pulmonary Rehabilitation
+- code: RN
+  sort_order: 18
+  short_zh: 復健護理/燒燙傷
+  display_name: Rehabilitation Nursing (含Burn and Wound Care)
+- code: REH
+  sort_order: 19
+  short_zh: 復健概念/醫倫法
+  display_name: Concept of Rehabilitation, Medical Ethics & Laws
+- code: SM
+  sort_order: 20
+  short_zh: 運動醫學
+  display_name: Sports Medicine
+- code: SCI
+  sort_order: 21
+  short_zh: 脊髓損傷
+  display_name: Spinal Cord Injury
+- code: SPE
+  sort_order: 22
+  short_zh: 語言吞嚥
+  display_name: Speech & Communication Disorder (含Swallowing)
+- code: TBI
+  sort_order: 23
+  short_zh: 腦外傷
+  display_name: Traumatic Brain Injury
+- code: PAIN
+  sort_order: 24
+  short_zh: 疼痛醫學
+  display_name: Pain Medicine
+- code: US
+  sort_order: 25
+  short_zh: 肌肉骨骼超音波
+  display_name: Sonography for Musculoskeletal System
+- code: CAN
+  sort_order: 26
+  short_zh: 癌症復健
+  display_name: Cancer Rehabilitation
