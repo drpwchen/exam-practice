@@ -2,9 +2,22 @@
 
 # exam-practice · 專科考試練習平台
 
-> 一套以 **FSRS 間隔重複** 為核心的考題練習系統。最初是我為了準備**復健科 (PMR, Physical Medicine & Rehabilitation) 專科考試**、給院內醫師與自己練習而打造的 side project，現在整理成可公開、可自架、也適用於其他專科考試的開源版本。
+> 一套以 **FSRS 間隔重複** 為核心的考題練習系統。最初是我為了準備**復健科 (PMR, Physical Medicine & Rehabilitation) 專科考試**、給院內醫師與自己練習而打造的 side project，現在整理成原始碼公開、可自架、也適用於其他專科考試的版本（非商業免費，詳見[授權](#授權)）。
 
 🔗 **線上 Demo**：<https://exam-demo.drpwchen.com>（內建示範帳號，開啟即可試用）
+
+![Demo](docs/screenshots/demo.gif)
+
+---
+
+## 畫面截圖
+
+| | |
+|---|---|
+| ![首頁](docs/screenshots/01-home.png) | ![練習設定](docs/screenshots/03-settings.png) |
+| ![答題畫面](docs/screenshots/04-quiz.png) | ![個人錯題本](docs/screenshots/06-wrong-bank.png) |
+| ![大家的錯題本](docs/screenshots/05-college-wrong-bank.png) | ![Dashboard](docs/screenshots/07-dashboard.png) |
+| ![預期得分落點](docs/screenshots/08-score-projection.png) | ![PDF 考題原始畫面](docs/screenshots/02-pdf-import.png) |
 
 ---
 
@@ -107,7 +120,12 @@ npm run dev                     # 開 http://localhost:5173
 
 ## 授權
 
-[MIT](LICENSE)。歡迎 fork、改作、用於你自己的專科考試準備。
+本專案採 **[PolyForm Noncommercial License 1.0.0](LICENSE)**（原始碼公開的 source-available 授權）：
+
+- **非商業使用免費**：個人讀書、同儕共學、學校／醫院等非營利機構之教學與研究，皆可自由 clone、自架、修改、fork。歡迎拿去改成你自己專科的版本。
+- **商業使用需授權**：補習班、營利培訓、付費平台等以營利為主要目的之利用，請先取得商業授權 → 📧 **contact@drpwchen.com**
+
+內含的 FSRS 等第三方元件保有其原始授權（MIT），詳見 [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md)。
 
 ---
 

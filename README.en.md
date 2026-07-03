@@ -2,9 +2,22 @@ Language： [繁體中文](README.md) ｜ **English**
 
 # exam-practice · Specialty Board-Exam Practice Platform
 
-> A past-exam practice system built around **FSRS spaced repetition**. It started as a side project I built to prepare for the **PMR (Physical Medicine & Rehabilitation) specialty board exam** — for colleagues in my program and for myself — and is now cleaned up into an open, self-hostable version that works for any specialty board exam.
+> A past-exam practice system built around **FSRS spaced repetition**. It started as a side project I built to prepare for the **PMR (Physical Medicine & Rehabilitation) specialty board exam** — for colleagues in my program and for myself — and is now cleaned up into a source-available, self-hostable version that works for any specialty board exam (free for noncommercial use — see [License](#license)).
 
 🔗 **Live demo**: <https://exam-demo.drpwchen.com> (a demo account is built in — just open and try it)
+
+![Demo](docs/screenshots/demo.gif)
+
+---
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Home](docs/screenshots/01-home.png) | ![Practice settings](docs/screenshots/03-settings.png) |
+| ![Quiz screen](docs/screenshots/04-quiz.png) | ![Personal wrong-answer book](docs/screenshots/06-wrong-bank.png) |
+| ![Everyone's wrong-answer book](docs/screenshots/05-college-wrong-bank.png) | ![Dashboard](docs/screenshots/07-dashboard.png) |
+| ![Score projection](docs/screenshots/08-score-projection.png) | ![Original PDF question view](docs/screenshots/02-pdf-import.png) |
 
 ---
 
@@ -107,7 +120,12 @@ This is a **multi-user system that stores personal answer data**. Before exposin
 
 ## License
 
-[MIT](LICENSE). Fork it, adapt it, use it to prep for your own board exam.
+Licensed under the **[PolyForm Noncommercial License 1.0.0](LICENSE)** (a source-available license):
+
+- **Free for noncommercial use**: personal study, peer learning, and teaching/research at nonprofit institutions (schools, hospitals) — clone, self-host, modify, and fork freely. Fork it for your own specialty.
+- **Commercial use requires a license**: cram schools, for-profit training, paid platforms, or any primarily commercial use — please obtain a commercial license first → 📧 **contact@drpwchen.com**
+
+Bundled third-party components such as FSRS keep their original licenses (MIT) — see [THIRD-PARTY-LICENSES.md](THIRD-PARTY-LICENSES.md).
 
 ---
 
