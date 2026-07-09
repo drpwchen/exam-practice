@@ -130,3 +130,9 @@ Bundled third-party components such as FSRS keep their original licenses (MIT) �
 ---
 
 *Built by 陳柏威 (Po-Wei Chen) — a PMR physician. If this helps you prep for your boards, a ⭐ is appreciated.*
+
+## 🧋 Support
+
+If this tool saves you time, you can buy me a boba — it keeps the servers running 🧡
+
+[![Give me a Boba!](https://img.shields.io/badge/🧋_Give_me_a_Boba!-AD5138?style=for-the-badge)](https://drpwchen.bobaboba.me)
