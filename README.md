@@ -130,3 +130,9 @@ npm run dev                     # 開 http://localhost:5173
 ---
 
 *Built by 陳柏威 — 復健科醫師。如果這個工具對你準備專科考試有幫助，歡迎 star ⭐。*
+
+## 🧋 支持
+
+如果這個工具幫你省下時間，歡迎請我喝杯珍奶，讓伺服器繼續轉下去 🧡
+
+[![請我喝珍奶！](https://img.shields.io/badge/🧋_請我喝珍奶！-AD5138?style=for-the-badge)](https://drpwchen.bobaboba.me)
