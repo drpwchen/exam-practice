@@ -32,6 +32,32 @@
 
 > 這是一人維護的 side project，歡迎 fork 改成你自己專科的版本。
 
+## 快速開始
+
+**需求與費用**
+- Python 3.11+ 與 Node 18+；Windows、macOS、Linux 皆可，不需要 GPU，不需要任何 API key。
+- 非商業使用免費（授權見下）；自架的成本只有你選的主機。
+- 匯入自己的 PDF 題庫會用到 PyMuPDF；用 LLM 整理題庫是選用的（見 SETUP.md）。
+
+```bash
+# 1. 後端
+python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+cp env.example .env             # 編輯 SECRET_KEY、ADMIN_USERNAME 等
+python -m pipeline.seed_demo    # 建立示範資料庫（20 題 + 合成使用者作答）
+uvicorn backend.main:app --reload
+
+# 2. 前端（另開終端）
+cd frontend
+npm install
+npm run dev                     # 開 http://localhost:5173
+```
+
+預設示範帳號會在 `seed_demo` 輸出中列出，登入後即可練習、看儀表板、錯題本與分數預測。
+
+> 🧋 省了你時間的話，[請我喝杯飲料](https://drpwchen.com/support/)。
+
+
 ## 核心功能
 
 ### 1 · 題目輸入（PDF → 題庫）
@@ -61,6 +87,15 @@ PDF ──► PyMuPDF 取文字 + 影像 ──► 自動裁切去白邊 ──�
 - 模型把每科拆成**初答正確率**（沒看過的新題實力）與**二刷後正確率**（複習到位後的命中率）；複習情境是**逐題用 FSRS 模擬複習到考前**算出考試當天的記憶率，而非套用固定常數。
 - 💡 **要預測準，請從第一次接觸考題就用本系統練**——「初答正確率」是估「新題實力」的關鍵；若那些題你已在別處做過，這裡的初答會虛高、預測就會偏樂觀。
 
+## 限制
+
+- 附的示範題庫只有 20 題，詳解由 Claude 撰寫、僅供示範，可能有誤；其餘為 AI 生成的示範題。
+- PDF 匯入是規則式 parser，版面特殊的考卷需要在 admin 後台人工校對；詳解因此直接用該頁截圖呈現。
+- 分數預測需要你從第一次接觸考題就用本系統作答；題目若已在別處做過，初答正確率會虛高，預測會偏樂觀。
+- 採 PolyForm Noncommercial：商業使用需另外取得授權。
+- 一人維護的 side project，沒有 SLA。
+
+
 ## Demo 題庫與授權聲明
 
 為了讓任何人 clone 後立刻看到完整功能，本專案附了一份**示範題庫**：
@@ -77,26 +112,6 @@ PDF ──► PyMuPDF 取文字 + 影像 ──► 自動裁切去白邊 ──�
 | 後端 | FastAPI · SQLAlchemy 2.0 · SQLite (WAL) · JWT 驗證 · FSRS-6 |
 | 前端 | Vue 3 (Composition API) · Vant 4 · Vite · Pinia · PWA |
 | 題庫管線 | PyMuPDF (fitz) · Pillow · 規則式 parser |
-
-## 快速開始
-
-需求：Python 3.11+、Node 18+。
-
-```bash
-# 1. 後端
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-cp env.example .env             # 編輯 SECRET_KEY、ADMIN_USERNAME 等
-python -m pipeline.seed_demo    # 建立示範資料庫（20 題 + 合成使用者作答）
-uvicorn backend.main:app --reload
-
-# 2. 前端（另開終端）
-cd frontend
-npm install
-npm run dev                     # 開 http://localhost:5173
-```
-
-預設示範帳號會在 `seed_demo` 輸出中列出，登入後即可練習、看儀表板、錯題本與分數預測。
 
 ## 匯入你自己的題庫
 
@@ -131,11 +146,9 @@ npm run dev                     # 開 http://localhost:5173
 
 *Built by 陳柏威 — 復健科醫師。如果這個工具對你準備專科考試有幫助，歡迎 star ⭐。*
 
-## 🧋 支持
+## Support 支持
 
-如果這個工具幫你省下時間，歡迎請我喝杯飲料，讓伺服器繼續轉下去 🧡
-
-[![Buy me a drink](https://img.shields.io/badge/🧋_Buy_me_a_drink-8a6d4e?style=for-the-badge)](https://drpwchen.com/support/)
+如果這個工具幫你省下時間，歡迎[請我喝杯飲料](https://drpwchen.com/support/) 🧋
 
 ---
 

@@ -32,6 +32,32 @@ One of the most effective ways to prepare for a written board exam is to drill p
 
 > This is a solo, side-project codebase — feel free to fork it for your own specialty.
 
+## Quick start
+
+**Requirements & cost**
+- Python 3.11+ and Node 18+ on Windows, macOS or Linux; no GPU and no API keys.
+- Free for noncommercial use (see License below); self-hosting costs whatever host you pick.
+- Importing your own PDF question bank uses PyMuPDF; using an LLM to prepare a question bank is optional (see SETUP.md).
+
+```bash
+# 1. Backend
+python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+cp env.example .env             # edit SECRET_KEY, ADMIN_USERNAME, etc.
+python -m pipeline.seed_demo    # build the sample DB (20 questions + synthetic users/answers)
+uvicorn backend.main:app --reload
+
+# 2. Frontend (separate terminal)
+cd frontend
+npm install
+npm run dev                     # open http://localhost:5173
+```
+
+The demo account is printed by `seed_demo`. Log in to practice and explore the dashboard, wrong-answer bank, and score prediction.
+
+> 🧋 Saved you some time? [Buy me a drink](https://drpwchen.com/en/support/).
+
+
 ## Core features
 
 ### 1 · Question ingestion (PDF → question bank)
@@ -78,26 +104,6 @@ So that anyone can clone and immediately see the full feature set, the repo ship
 | Frontend | Vue 3 (Composition API) · Vant 4 · Vite · Pinia · PWA |
 | Pipeline | PyMuPDF (fitz) · Pillow · rule-based parser |
 
-## Quick start
-
-Requires Python 3.11+ and Node 18+.
-
-```bash
-# 1. Backend
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-cp env.example .env             # edit SECRET_KEY, ADMIN_USERNAME, etc.
-python -m pipeline.seed_demo    # build the sample DB (20 questions + synthetic users/answers)
-uvicorn backend.main:app --reload
-
-# 2. Frontend (separate terminal)
-cd frontend
-npm install
-npm run dev                     # open http://localhost:5173
-```
-
-The demo account is printed by `seed_demo`. Log in to practice and explore the dashboard, wrong-answer bank, and score prediction.
-
 ## Bring your own question bank
 
 1. Drop your past-exam PDFs into `PAST_PAPER_DIR` (set in `.env`).
@@ -118,6 +124,15 @@ This is a **multi-user system that stores personal answer data**. Before exposin
 - **Never** commit `.env` or a production `data/*.db` (already in `.gitignore`).
 - **Back up the database** regularly and lock down the admin account.
 
+## Limitations
+
+- The bundled demo bank has only 20 questions; the explanations were written by Claude for demonstration and may contain errors, and the remaining demo questions are AI-generated.
+- PDF import uses a rule-based parser, so unusual layouts need manual proofreading in the admin back office; explanations are therefore shown as page screenshots.
+- Score prediction assumes you practice with this system from your first contact with the questions; if you did them elsewhere, first-attempt accuracy is inflated and the prediction turns optimistic.
+- PolyForm Noncommercial: commercial use needs a separate license.
+- A one-person side project with no SLA.
+
+
 ## License
 
 Licensed under the **[PolyForm Noncommercial License 1.0.0](LICENSE)** (a source-available license):
@@ -131,8 +146,6 @@ Bundled third-party components such as FSRS keep their original licenses (MIT) �
 
 *Built by 陳柏威 (Po-Wei Chen) — a PMR physician. If this helps you prep for your boards, a ⭐ is appreciated.*
 
-## 🧋 Support
+## Support 支持
 
-If this tool saves you time, you can buy me a boba — it keeps the servers running 🧡
-
-[![Buy me a drink](https://img.shields.io/badge/🧋_Buy_me_a_drink-8a6d4e?style=for-the-badge)](https://drpwchen.com/en/support/)
+If this tool saves you time, you can [buy me a drink](https://drpwchen.com/en/support/) 🧋
